@@ -1,14 +1,19 @@
 ## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm Tiago Louro
-Currently in the final months of a bachelors in Computer Science at IST and eager to start my professional career. 
-Deeply interested in Cybersecurity and AI, I always focus on understanding complex problems and their broader system-wide effects.
-I am highly adaptable and always looking to explore new, innovative ways of problem-solving.
+Recent Computer Science and Engineering graduate from IST, currently gaining industry experience as a Software Engineer Intern at Arkadium. Deeply interested in both Software Engineering and Cybersecurity, with hands-on experience in ad-tech systems, testing pipelines, and self-hosted infrastructure. Adaptable and eager to take on new challenges in fast-paced environments.
+
 ## 👨🏼‍🎓 Academic Report 🤖
-Currently studying Computer Science at IST, Lisbon.
+Recent Computer Science and Engineering graduate from IST, Lisbon.
 
 ## 🛠️ Languages and Tools I use:
 
 ### 💻 Languages
 <p>
+    <a href="https://www.typescriptlang.org/" target="_blank">
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="35" height="35"/></code>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/></code>
+    </a>
     <a href="https://www.cprogramming.com/" target="_blank">
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="35" height="35"/></code>
     </a>
@@ -18,17 +23,14 @@ Currently studying Computer Science at IST, Lisbon.
     <a href="https://www.python.org" target="_blank">
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="35" height="35"/></code>
     </a>
+    <a href="https://www.swift.org/" target="_blank">
+        <code><img src="https://www.vectorlogo.zone/logos/swift/swift-vertical.svg" alt="swift" width="35" height="35"/></code>
+    </a>
     <a href="https://www.swi-prolog.org" target="_blank">
         <code><img src="https://www.svgrepo.com/show/374005/prolog.svg" alt="prolog" width="35" height="35"/></code>
     </a>
     <a href="https://www.r-project.org" target="_blank">
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="r" width="35" height="35"/></code>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/></code>
-    </a>
-    <a href="https://www.swift.org/" target="_blank">
-        <code><img src="https://www.vectorlogo.zone/logos/swift/swift-vertical.svg" alt="swift" width="35" height="35"/></code>
     </a>
 </p>
 
@@ -53,17 +55,23 @@ Currently studying Computer Science at IST, Lisbon.
 
 ### 🗄️ Databases, DevOps & OS
 <p>
-    <a href="https://www.linux.org/" target="_blank">
-        <code><img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/></code>
-    </a>
     <a href="https://git-scm.com/" target="_blank">
         <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/></code>
     </a>
-    <a href="https://archlinux.org/" target="_blank">
-        <code><img src="https://github.com/devicons/devicon/raw/master/icons/archlinux/archlinux-original.svg" alt="archlinux" width="35" height="35"/></code>
+    <a href="https://github.com/features/actions" target="_blank">
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" alt="github actions ci/cd" width="35" height="35"/></code>
+    </a>
+    <a href="https://www.docker.com/" target="_blank">
+        <code><img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="docker" width="35" height="35"/></code>
+    </a>
+    <a href="https://www.linux.org/" target="_blank">
+        <code><img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/></code>
     </a>
     <a href="https://ubuntu.com/" target="_blank">
         <code><img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-tile.svg" alt="ubuntu" width="35" height="35"/></code>
+    </a>
+    <a href="https://archlinux.org/" target="_blank">
+        <code><img src="https://github.com/devicons/devicon/raw/master/icons/archlinux/archlinux-original.svg" alt="archlinux" width="35" height="35"/></code>
     </a>
     <a href="https://www.gnu.org/software/bash/" target="_blank">
         <code><img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg" alt="bash" width="35" height="35"/></code>
@@ -74,15 +82,15 @@ Currently studying Computer Science at IST, Lisbon.
     <a href="https://www.postgresql.org" target="_blank">
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgres" width="35" height="35" /></code>
     </a>
-    <a href="https://www.docker.com/" target="_blank">
-        <code><img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="docker" width="35" height="35"/></code>
-    </a>
 </p>
 
-### ⚙️ IDEs & Tools
+### ⚙️ IDEs & Testing Tools
 <p>
     <a href="https://code.visualstudio.com" target="_blank">
         <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vscode" width="35" height="35"/></code>
+    </a>
+    <a href="https://playwright.dev/" target="_blank">
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" alt="playwright e2e testing" width="35" height="35"/></code>
     </a>
     <a href="https://www.jetbrains.com/pycharm/" target="_blank">
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="35" height="35" /></code>
