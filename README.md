@@ -118,7 +118,7 @@ Recent Computer Science and Engineering graduate from IST, Lisbon.
         <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Claude_AI_symbol.svg/960px-Claude_AI_symbol.svg.png?_=20250427183551" alt="claude" width="35" height="35"/></code>
     </a>
     <a href="[https://github.com/features/copilot](https://anythingllm.com/)" target="_blank">
-        <code><img src="[https://www.vectorlogo.zone/logos/github_copilot/github_copilot-icon.svg](https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/anything-llm-light.svg)" alt="AnythingLLM" width="35" height="35"/></code>
+        <code><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/anything-llm-light.svg" alt="AnythingLLM" width="35" height="35"/></code>
     </a>
 </p>
 
